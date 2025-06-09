@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 import App from './App';
 import './index.css';
 
-const container = document.getElementById('app'); // <-- This is correct for your HTML!
+const container = document.getElementById('app');
 const root = createRoot(container);
 root.render(
   <React.StrictMode>
