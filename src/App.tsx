@@ -11,7 +11,7 @@ function App() {
             <Navigation />
             <Introduction />
             <About />
-
+            <Link />
         </>
 
     );
